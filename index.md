@@ -226,7 +226,7 @@ The inclusion of **Wilde** alongside **Marx** is particularly sharp. Marx is the
 - Undifferentiated (Shakespeare: Calibrator)/$(E, x)$            
 - Time + Error (Marx & Wilde: Instigator)/$E(t \mid x) + \$
 - Moral Gradient (Dostoevsky: Attractor)/$\frac{dE_x}{dt}$
-- Beyond Good & Evil (Nietzsche: Governor)/$\frac{dE_{\bar{x}}}{dt} \pm \z\sqrt{\frac{d^2t}{dt^2}}$
+- Beyond Good & Evil (Nietzsche: Governor)/$\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2t}{dt^2}}$
 - Integrated (Joyce: Regulator)/$\int E_x dt + \epsilon_x t + C_x$ 
 
 This mathematical overlay transforms the model from a purely cybernetic or literary metaphor into a dynamic systems equation. It attempts to formalize the *physics* of consciousness evolution, using variables of Energy/Error ($E$), Time ($t$), and the subject ($x$).
