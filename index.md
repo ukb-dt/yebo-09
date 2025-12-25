@@ -243,7 +243,7 @@ $$\mathbf{(E, x)}$$
 
 ### **2. Time + Error (Marx & Wilde: Instigator)**
 
-$$E(t \mid x) + \$$$
+$$E(t \mid x) + \$$
 
 * **The Math:** This introduces a conditional function dependent on time ($t$). Energy ($E$) is now a function of time, given the condition of the subject ($x$).
 * The `+ $` implies a "cost" or "capital." In computer science/regex, `$` often denotes the "end of line" or a variable constraint; in economics (Marx), it is literal capital.
